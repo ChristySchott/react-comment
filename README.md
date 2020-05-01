@@ -15,7 +15,7 @@
 
 ## 💻 Projeto
 
-Aplicação utilizando uma API que conecta o usuários a milhares de receitas. Além de pesquisar pela receita o usário pode dar like, colocar os ingredientes numa lista para a compra e também definer o número de pessoas que a receita deve servir.
+Aplicação simples que simula um card onde é possível aceitar ou recusar um comentário. O objetivo do projeto é introduzir o aluno ao conceito de Components em React.
 
 ## Instalação 🚀
 
